@@ -34,7 +34,7 @@ I am an IT candidate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve tech problems and read tech articles.
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Smindlo04-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lethukuthula-sibiya-51018a303)  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)]()
+- :mailbox:How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)]()
 
 ---
 
