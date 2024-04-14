@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsNmV0bm4zajhld2lkMmMwb3J5N256eHUwd3gybTlxNG9kcjIwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/lethukuthula-sibiya-51018a303">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
     </a>
   <a href="">
   <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge" alt="Gmail Badge"/>
