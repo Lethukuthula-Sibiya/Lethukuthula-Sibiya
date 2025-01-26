@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 I am an IT candidate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gauteng, South Africa.
-- :telescope: I’m currently pursuing a degree in IT at the North-West University.
+- :telescope: I have a degree in IT.
 
 - :seedling: Exploring Technical Content Writing.
 
