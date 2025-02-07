@@ -49,6 +49,7 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
