@@ -30,7 +30,7 @@
 I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gauteng, South Africa.
 - :telescope: I have recently completed a Bachelor's Degree in IT.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Expanding my cloud computing skills through AWS certification.
 
 - :zap: In my free time, I solve tech problems and read tech articles.
   
