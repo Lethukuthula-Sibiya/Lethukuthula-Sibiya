@@ -27,7 +27,22 @@
 </div>
 
 ---
+# :man_technologist: About Me :
+I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Gauteng, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills in cloud computing, specifically through AWS certification.
+### :telescope: Academic Background:
+   - Completed a Bachelor's Degree in IT.
+   - Knowledge of various programming languages such as Java, C#, and Python.
+  
+### :seedling: Learning and Growth:
+   - Actively expanding my cloud computing expertise through AWS certification.
+   - Continuously improving my skills by solving tech problems and staying updated with tech articles and resources.
+     
+###  :zap: Hobbies and Interests:
+   - In my spare time, I like to read articles and learn more about emerging trends in tech, such as AI, cloud services, and software development best practices.
+    
+### :mailbox: How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:sibiyalethukuthula04@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lethukuthula-sibiya)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
