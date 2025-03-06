@@ -3,17 +3,16 @@
 </div>
 
 <div align="center">
-    </a>
-  <a href="">
-  <img src="https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
-    </a>
-  <a href="www.linkedin.com/in/lethukuthula-sibiya">
+  <a href="mailto:sibiyalethukuthula04@gmail.com">
+    <img src="https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lethukuthula-sibiya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Smindlo04&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Smindlo04&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -32,13 +31,12 @@
 ### :man_technologist: About Me :
 I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gauteng, South Africa.
 - :telescope: I have recently completed a Bachelor's Degree in IT.
-
 - :seedling: Expanding my cloud computing skills through AWS certification.
-
 - :zap: In my free time, I solve tech problems and read tech articles.
   
-- :mailbox:How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)]()
-                             [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lethukuthula-sibiya)
+- :mailbox: How to reach me:  
+  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:sibiyalethukuthula04@gmail.com)  
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lethukuthula-sibiya)
 
 ---
 
@@ -46,10 +44,10 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLDeveloper" alt="SQLDeveloper" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
@@ -62,5 +60,15 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
-### :fire: My Stats : 
+### :fire: My GitHub Stats :
+<a href="https://github.com/Smindlo04">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smindlo04&show_icons=true&theme=dark" alt="GitHub Stats" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smindlo04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
