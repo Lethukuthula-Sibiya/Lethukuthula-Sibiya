@@ -38,7 +38,7 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: In my free time, I solve tech problems and read tech articles.
   
 - :mailbox:How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-sibiyalethukuthula04@gmail.com-white?style=flat&logo=Gmail&logoColor=red)]()
-                             [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lethukuthula-sibiya)
+                             [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lethukuthula-sibiya)
 
 ---
 
