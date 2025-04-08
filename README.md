@@ -28,7 +28,7 @@
 
 ---
 # :man_technologist: About Me :
-I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Gauteng, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills in cloud computing, specifically through AWS certification.
+I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based at Ulundi, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills in cloud computing, specifically through AWS certification.
 ### :telescope: Academic Background:
    - Completed a Bachelor's Degree in IT.
    - Knowledge of various programming languages such as Java, C#, and Python.
