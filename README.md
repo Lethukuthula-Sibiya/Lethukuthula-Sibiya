@@ -34,7 +34,7 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
    - Knowledge of various programming languages such as Java, C#, and Python.
   
 ### :seedling: Learning and Growth:
-   - Actively expanding my cloud expertise through online courses.
+   - Actively expanding my expertise through online courses.
    - Continuously improving my skills by solving tech problems and staying updated with tech articles and resources.
      
 ###  :zap: Hobbies and Interests:
