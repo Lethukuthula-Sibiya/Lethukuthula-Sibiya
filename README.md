@@ -32,7 +32,7 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :telescope: Academic Background:
    - Completed a Bachelor's Degree in IT.
-   - Knowledge of various programming languages such as Java, C#, and Python.
+   - Foundational knowledge of various programming languages such as Java, C#, and Python.
   
 ### :seedling: Learning and Growth:
    - Actively expanding my expertise through online courses.
