@@ -37,7 +37,12 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :seedling: Learning and Growth:
    - Actively expanding my expertise through online courses.
    - Continuously improving my skills by solving tech problems and staying updated with tech articles and resources.
-     
+
+### 🏆 Achievements:
+   - ✅ AWS Certified Cloud Practitioner  
+     Earned in July 2025 – [View my badge](https://www.credly.com/badges/7cb067fb-1925-490a-8c2a-2fa24b08c4b8/public_url)
+   - 🎓 Completed BSc in Information Technology  
+
 ###  :zap: Hobbies and Interests:
    - In my spare time, I like to read articles and learn more about emerging trends in tech, such as AI, cloud services, and software development best practices.
     
