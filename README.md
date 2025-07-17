@@ -70,11 +70,11 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 
 ### :fire: My GitHub Stats :
-<a href="https://github.com/Smindlo04">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smindlo04&show_icons=true&theme=dark" alt="GitHub Stats" />
+<a href="https://github.com/Lethukuthula-Sibiya">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lethukuthula-Sibiya&show_icons=true&theme=dark" alt="GitHub Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smindlo04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethukuthula-Sibiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
