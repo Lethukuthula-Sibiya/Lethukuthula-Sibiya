@@ -28,7 +28,7 @@
 
 ---
 # :man_technologist: About Me :
-I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Vanderbijlpark, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills, specifically through AWS certifications.
+I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mulbarton, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills, specifically through AWS certifications.
 
 ### :telescope: Academic Background:
    - Completed a Bachelor's Degree in IT.
@@ -41,6 +41,8 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### 🏆 Achievements:
    - ✅ AWS Certified Cloud Practitioner  
      Earned in July 2025 – [View my badge](https://www.credly.com/badges/7cb067fb-1925-490a-8c2a-2fa24b08c4b8/public_url)
+   - ✅ SQL (Basic) - HackerRank.com
+     Earned in July 2025 - [View my badge](https://www.hackerrank.com/certificates/b2142b43c52e)
    - 🎓 Completed BSc in Information Technology
 
 ###  :zap: Hobbies and Interests:
