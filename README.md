@@ -48,7 +48,7 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
    - ✅ AWS Certified Cloud Practitioner  
       - Earned in July 2025 – [View my badge](https://www.credly.com/badges/7cb067fb-1925-490a-8c2a-2fa24b08c4b8/public_url)
    - ✅ CERTIFICATE OF COMPLETION - Ultimate AWS Certified Cloud Practitioner CLF-C02 2025
-     - Earned in June 2025 - [View my certification](https://ude.my/UC-e3f4b554-b80d-4794-98c8-20f605e16b74 
+     - Earned in June 2025 - [View my certification](https://ude.my/UC-e3f4b554-b80d-4794-98c8-20f605e16b74) 
 
 ###  :zap: Hobbies and Interests:
    - In my spare time, I like to read articles and learn more about emerging trends in tech, such as AI, cloud services, and software development best practices.
