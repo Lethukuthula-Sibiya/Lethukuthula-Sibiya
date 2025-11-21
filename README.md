@@ -39,6 +39,8 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
    - Continuously improving my skills by solving tech problems and staying updated with tech articles and resources.
 
 ### 🏆 Achievements:
+   - ✅ Software Engineer Intern Certificate - HackerRank.com
+     - Earned in November 2025 - [View my certification](https://www.hackerrank.com/certificates/a0b6497799d5)
    - ✅ SQL (Intermediate) Certificate - HackerRank.com
      - Earned in November 2025 - [View my certification](https://www.hackerrank.com/certificates/13e71b0637c0)
    - ✅ CERTIFICATE OF COMPLETION - AWS Certified Data Engineer Associate - 2025 - Hands On!  
