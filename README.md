@@ -28,7 +28,7 @@
 
 ---
 # :man_technologist: About Me :
-I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mulbarton, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills, specifically through certifications.
+I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Vanderbijlpark, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills, specifically through certifications.
 
 ### :telescope: Academic Background:
    - Completed a Bachelor's Degree in IT.
