@@ -80,9 +80,10 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :fire: My GitHub Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lethukuthula-Sibiya&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-lethukuthula-sibiyas-projects.vercel.app/api?username=Lethukuthula-Sibiya&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethukuthula-Sibiya&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-lethukuthula-sibiyas-projects.vercel.app/api/top-langs/?username=Lethukuthula-Sibiya&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
 
 
 
