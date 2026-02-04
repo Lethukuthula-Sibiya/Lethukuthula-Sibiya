@@ -27,8 +27,10 @@
 </div>
 
 ---
-# :man_technologist: About Me :
-I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Pretoria, South Africa, with a strong passion for technology and problem-solving. I have recently completed my Bachelor's Degree in IT, and I am currently expanding my knowledge and skills, specifically through certifications.
+# 👨‍💻 About Me
+
+I am an IT graduate based in Pretoria, South Africa, with a strong passion for technology and problem-solving. I am currently pursuing an **Honours degree in Computer Science**, where I am deepening my understanding of software development and systems design. Alongside my studies, I continue to expand my skills through hands-on projects.
+
 
 ### :telescope: Academic Background:
    - Completed a Bachelor's Degree in IT.
