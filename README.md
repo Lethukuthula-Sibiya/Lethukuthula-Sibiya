@@ -80,8 +80,6 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### 🐍 Contribution Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/Lethukuthula-Sibiya/Lethukuthula-Sibiya/output/github-contribution-grid-snake.svg)
-
 ![Contribution Snake](https://raw.githubusercontent.com/Lethukuthula-Sibiya/Lethukuthula-Sibiya/output/github-contribution-grid-snake-dark.svg)
 
 
