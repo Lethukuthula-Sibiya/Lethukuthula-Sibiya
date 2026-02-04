@@ -78,11 +78,10 @@ I am an IT graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
-### :fire: My GitHub Stats :
+### 🐍 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats-lethukuthula-sibiyas-projects.vercel.app/api?username=Lethukuthula-Sibiya&show_icons=true&theme=dark&hide_border=true)
+![Contribution Snake](https://raw.githubusercontent.com/Lethukuthula-Sibiya/Lethukuthula-Sibiya/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats-lethukuthula-sibiyas-projects.vercel.app/api/top-langs/?username=Lethukuthula-Sibiya&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 
 
