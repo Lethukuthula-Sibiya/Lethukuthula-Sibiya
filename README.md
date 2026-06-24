@@ -29,7 +29,7 @@
 ---
 # 👨‍💻 About Me
 
-I am an IT graduate based in Pretoria, South Africa, with a strong passion for technology and problem-solving. I am currently pursuing an **Honours degree in Computer Science**, where I am deepening my understanding of software development and systems design. Alongside my studies, I continue to expand my skills through hands-on projects.
+I am an IT graduate based in Pretoria, South Africa, with a strong passion for technology and problem-solving. I am currently pursuing an Honours degree in Computer Science, where I am deepening my understanding of software development and systems design. Alongside my studies, I continue to expand my skills through hands-on projects.
 
 
 ### :telescope: Academic Background:
