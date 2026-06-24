@@ -38,7 +38,7 @@ I am an IT graduate based in Pretoria, South Africa, with a strong passion for t
   
 ### :seedling: Learning and Growth:
    - Actively expanding my expertise through online courses.
-   - Continuously improving my skills by solving tech problems and staying updated with tech articles and resources.
+   - Continuously improving my skills by solving tech problems and staying updated with tech.
 
 ### 🏆 Achievements:
    - ✅ Software Engineer Intern Certificate 
